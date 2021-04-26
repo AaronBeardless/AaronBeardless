@@ -5,15 +5,14 @@
 
 
 ### 📖 About me
-My Name is Aaron Kerker, I am a 14 year old, self thaught, hobbyist "game developer".
-I started my game-dev journey using unity when I was 7 years old. 
-Over the years I have been using different engines and programming languages to better my skills.
+My Name is Aaron Kerker, I am a 14 year old, self thaught, hobbyist "game developer". \
 \
-Most Recently I wanted to learn how to make the software  that powered my journey so far, GAME ENGINES.
+I have "experience" with C#, C++, Unreal & Unity. \
+Over my coding years I have been creating smaller games, mostly for "game jams". Now I am working on my first bigger title with my friends. 
 
 ### 💻 What am I currently working on?
-I am currently working on my 3rd game engine titled "MAKESHIFT", which I think describes it quite well.
-As well as that I am working on a custom Entity Component System titled "MinTY" to be used within the engine.
+I am currently working on a game engine entitled "MAKESHIFT" for a project with my friends. \
+As well as that I´m currently developing an ECS for said engine entitled "MinTY".
 
 ### 👨‍💻 My languages and tools
 ![Overview2](https://user-images.githubusercontent.com/82168319/114110227-51a39e00-98d7-11eb-87f4-5e2b4d116989.png)
