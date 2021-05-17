@@ -11,7 +11,6 @@ I have "experience" with C#, C++, Unreal & Unity. \
 Over my coding years I have been creating smaller games, mostly for "game jams". Now I am working on my first bigger title with my friends. 
 
 ### 💻 What am I currently working on?
-![MakeShift_Editor_Logo](https://user-images.githubusercontent.com/82168319/116848561-2a49a380-abed-11eb-84bc-b27808f40ca3.png)
 
 I am currently working on a game engine entitled "MAKESHIFT" for a project with my friends. \
 As well as that I´m currently developing an ECS for said engine entitled "MinTY".
