@@ -1,5 +1,4 @@
-![Overview](https://user-images.githubusercontent.com/82168319/114108732-020fa300-98d4-11eb-8829-92daf9771a1b.png)
-
+![Overview](https://user-images.githubusercontent.com/82168319/118506697-d6cb6f80-b72d-11eb-8240-a11b4090291f.png)
 
 ##  <b> Hello there, I am Aaron Kerker - aka Aaron Beardless </b> :wave:
 
@@ -16,5 +15,4 @@ I am currently working on a game engine entitled "MAKESHIFT" for a project with 
 As well as that I´m currently developing an ECS for said engine entitled "MinTY".
 
 ### 👨‍💻 My languages and tools
-![Overview2](https://user-images.githubusercontent.com/82168319/114110227-51a39e00-98d7-11eb-87f4-5e2b4d116989.png)
-
+![Overview2](https://user-images.githubusercontent.com/82168319/118506733-de8b1400-b72d-11eb-9599-7269590afa16.png)
