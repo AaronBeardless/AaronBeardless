@@ -4,10 +4,10 @@
 
 
 ### 📖 About me
-My Name is Aaron Kerker, I am a 14 year old, self thaught, hobbyist "game developer". \
+My Name is Aaron Kerker, I am a 15 year old, self thaught, hobbyist "game developer". \
 \
-I have "experience" with C#, C++, Unreal & Unity. \
-Over my coding years I have been creating smaller games, mostly for "game jams". Now I am trying to make my first bigger game.
+I have used C#, C++, Unreal & Unity. \
+Over my time coding I´ve been creating smaller games, mostly for "game jams". Now I am trying to make my first bigger game.
 
 Recently I´ve started learning about Computer Graphics.
 
