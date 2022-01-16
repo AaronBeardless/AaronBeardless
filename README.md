@@ -9,7 +9,7 @@ My Name is Aaron Kerker, I am a 15 year old, self thaught, hobbyist "game develo
 I have used C#, C++, Unreal & Unity. \
 Over my time coding I´ve been creating smaller games, mostly for "game jams". Now I am trying to make my first bigger game.
 
-Recently I´ve started learning about Computer Graphics.
+Recently I´ve started working with Computer Graphics and experimenting with creating own renderers and engines.
 
 ### 👨‍💻 My languages and tools
 ![Overview2](https://user-images.githubusercontent.com/82168319/118506733-de8b1400-b72d-11eb-9599-7269590afa16.png)
